@@ -9,16 +9,16 @@ const AboutSection = () => {
           className="rounded-lg drop-shadow-xl"
           objectFit="cover"
           fill={true}
-          src="https://res.cloudinary.com/ddjmxrrij/image/upload/v1700560370/sga/sga_uttegw.png" 
+          src="https://res.cloudinary.com/dgcedsrzf/image/upload/v1705137554/ow1zpr04xnrxqfrbics4.jpg" 
           alt=" Logo Sumber Griya Abadi" />
         </div>
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-2xl sm:text-4xl font-bold text-slate-800 dark:text-white mb-2 sm:mb-4">Tentang Kami</h2>
           <p className="text-base lg:text-lg">
-            <strong>Sumber Griya Abadi (SGA)</strong> merupakan perusahaan jasa pemasangan plafon dan distribusi bahan material bangunan. Kami berdiri sejak 2008 di Solo, Jawa Tengah. Hingga saat ini, kami selalu konsisten melayani pemasangan plafon secara professional dan berkualitas.  
+            <strong>Rental Sumber Semarang (RSA)</strong>  jasa sewa mobil terbaik di Semarang yang hadir memberikan solusi efisien dan ekonomis untuk kebutuhan transportasi masyarakat secara luas.   
           </p>
           <p className="text-base lg:text-lg my-2">
-            <strong>Kami</strong> menjual berbagai pilihan produk plafon PVC dan Gypsum serta bahan material lainnya.
+            <strong>Kami</strong> melayani rental mobil plus driver untuk perjalanan dinas, perjalanan liburan, jasa pet travel, antar jemput bandara, dan sebagainya.
           </p>
           
         </div>
