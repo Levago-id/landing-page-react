@@ -2,7 +2,7 @@ import React from 'react'
 
 function GoogleMaps() {
   return (
-        <iframe className='w-full h-48 sm:h-64'  src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Sumber%20Griya%20Abadi,%20Gelaran,%20Sobokerto,%20Kec.%20Ngemplak,%20Kabupaten%20Boyolali,%20Jawa%20Tengah%2057375+(Sumber%20Griya%20Abadi)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed">
+        <iframe className='w-full h-48 sm:h-64'  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2031277.6230272413!2d106.49766931829451!3d-6.084932115639982!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e708f8a2682ffc1%3A0xe8c97e28ca9909ca!2sKost%20Putra%20Bu%20Asih!5e0!3m2!1sen!2sid!4v1705139453227!5m2!1sen!2sid">
         </iframe>
   )
 }
