@@ -43,7 +43,7 @@ const Navbar = () => {
         <Link
           href={"/"}
           className="hidden sm:inline text-xl sm:text-3xl text-primary-500 font-bold"
-        >SGA</Link>
+        >RSS</Link>
         <div className="sm:w-auto w-full" id="navbar">
           <ul className="sm:space-x-8 flex justify-evenly items-center h-full">
             {navLinks.map((link, index) => (

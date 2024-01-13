@@ -22,16 +22,14 @@ const HeroSection = () => {
             <br></br>
             <TypeAnimation
               sequence={[
-                "Plafon PVC",
+                "Kendaraan",
                 1000,
-                "Atap Galvalume",
+                "Mobil",
                 1000,
-                "Plafon Gypsum",
+                "Rental",
                 1000,
-                "Lis Profil",
-                1000,
-                "Baja Ringan",
-                1000,
+                "Jasa Supir Antar",
+                1000,        
               ]}
               wrapper="span"
               speed={50}
@@ -39,11 +37,11 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-slate-700 dark:text-slate-300 text-base sm:text-lg mb-6 lg:text-xl">
-            Hanya Di <strong>Sumber Griya Abadi</strong>
+            Hanya Di <strong>Rental Sumber Semarang</strong>
           </p>
           <div>
             <Link
-              href="https://wa.me/6285602904294"
+              href="https://wa.me/6285377640809"
               target="_blank"
               className=" 
               transition duration-1000 delay-1000 ease-in 
@@ -68,11 +66,13 @@ const HeroSection = () => {
           className=" mb-12"
         >
           <div className="relative w-72 h-48 sm:h-64 lg:w-[30rem] lg:h-[18rem]">
-          <Image
-            className="rounded-lg drop-shadow-xl"
-            objectFit="cover"
-            fill={true}
-           src={"https://res.cloudinary.com/ddjmxrrij/image/upload/v1700565205/sga/20231119_120639_pzlvoh.jpg"} alt="Toko Sumber Griya Abadi"/>
+            <Image
+              className="rounded-lg drop-shadow-xl"
+              objectFit="cover"
+              fill={true}
+              src={"https://astrido.s3.amazonaws.com/wp-content/uploads/2019/08/2-silver-metallic-1.png"}
+              alt="Rental Sumber Semarang"
+            />
           </div>
         </motion.div>
       </div>
