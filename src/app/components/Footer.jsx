@@ -7,28 +7,28 @@ import GoogleMaps from "./GoogleMaps";
 const Footer = () => {
   const socialMedia=[
     {
-      link: 'https://www.instagram.com/sumbergriyaabadi',
-      alt: 'Instagram Sumber Griya Abadi',
+      link: 'https://www.instagram.com/rentalsumbersemarang',
+      alt: 'Instagram Rental Sumber Semarang',
       image: '/ig.svg'
     },
     {
-      link: 'https://web.facebook.com/sumbergriyaabadi?_rdc=1&_rdr',
-      alt: 'Facebook Sumber Griya Abadi',
+      link: 'https://web.facebook.com/rentalsumbersemarang?_rdc=1&_rdr',
+      alt: 'Facebook Rental Sumber Semarang',
       image: '/fb.svg'
     },
     {
-      link: 'https://www.tiktok.com/@sumbergriyaabadi',
-      alt: 'Tiktok Sumber Griya Abadi',
+      link: 'https://www.tiktok.com/@rentalsumbersemarang',
+      alt: 'Tiktok Rental Sumber Semarang',
       image: '/tiktok.svg'
     },
     {
-      link: 'https://www.youtube.com/@sumbergriyaabadi',
-      alt: 'Youtube Sumber Griya Abadi',
+      link: 'https://www.youtube.com/@rentalsumbersemarang',
+      alt: 'Youtube Rental Sumber Semarang',
       image: '/yt.svg'
     },
     {
-      link: 'https://api.whatsapp.com/send?phone=6285602904294&text=halo%20pak%2C%20saya%20mau%20konsultasi%20Plafon.',
-      alt: 'Whatsapp Sumber Griya Abadi',
+      link: 'https://api.whatsapp.com/send?phone=628576362711124&text=halo%20pak%2C%20saya%20mau%20konsultasi%20Plafon.',
+      alt: 'Whatsapp Rental Sumber Semarang',
       image: '/wa.svg'
     },
   ]
@@ -38,14 +38,14 @@ const Footer = () => {
         <div className="bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-primary-900 to-transparent rounded-full h-80 w-80 z-0 blur-lg absolute top-1/4 -left-4 transform -translate-x-1/2 -translate-1/2"></div>
         <div className="z-10">
           <h5 className="text-xl font-bold text-slate-800 dark:text-white my-2">
-            Sumber Griya Abadi
+            Rental Sumber Semarang
           </h5>
           <p className="text-slate-700 dark:text-slate-200 mb-4 pb-2 max-w-md border-b-2 border-primary-500">
-            Belanja plafon lengkap dan terpercaya hanya di Sumber Griya Abadi.
+            Sewa Mobil Semarang yang lengkap dan terpercaya hanya di Rental Sumber Semarang.
             <br /><br />
-            📍Jl Mangu-Sambi km.3, Sobokerto, Ngemplak, Boyolali, Jawa Tengah.
+            📍Jl Iweni Sari No.12 A, Tembalang, Kota Semarang.
             <br />
-            <strong>085 602 904 294 (WhatsApp)</strong>
+            <strong>628576362711124(WhatsApp)</strong>
           </p>
           <span className="text-xl font-bold text-slate-800 dark:text-white">Media Sosial :</span>
           <div className="flex flex-row gap-2">
@@ -64,7 +64,7 @@ const Footer = () => {
       </section>
       <footer className="z-10">
         <div className="container p-4 sm:p-8 text-center">
-          <p className="text-slate-700 dark:text-slate-200 text-sm"> Copyright {new Date().getFullYear()} | Sumber Griya Abadi</p>
+          <p className="text-slate-700 dark:text-slate-200 text-sm"> Copyright {new Date().getFullYear()} | Rental Sumber Semarang</p>
         </div>
       </footer>
     </>

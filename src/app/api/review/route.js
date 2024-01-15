@@ -3,27 +3,27 @@ export async function GET(req, res) {
   return NextResponse.json([
     {
       id:1,
-      name: "Donny",
-      job: "Retailer Plafon PVC",
-      message: "SGA selalu mensupply kebutuhan hollow dan lis figura ditoko saya👍",
+      name: "Daniel",
+      job: "Customer Sewa Mobil",
+      message: "Rental Sumber Semarang selalu mensupply kebutuhan jasa sewa mobil dan mobilnya sangat beragam👍",
     },
     {
       id:2,
-      name: "Anwar",
-      job: "Mandor Proyek",
-      message: "Beli gypsum Knauf dan hollow untuk proyek perumahan di Salatiga 1 hari langsung sampai",
+      name: "Budi Hartono",
+      job: "Pengusaha",
+      message: "Sewa mobil di RSS sangat worth it sekali dari segi harga dan kualitas yang sangat oke",
     },
     {
       id:3,
-      name: "Luki",
+      name: "Lucky",
       job: "Pimpinan Proyek",
-      message: "SGA bisa mensupply kebutuhan gypsum Jayaboard proyek saya di Magetan. Harga oke dan pengirimannya cepat",
+      message: "RSS bisa mensupply mobil mobil sewa yang sangat baru dan gress di semarang. Harga oke dan deliverynya cepat",
     },
     {
       id:4,
       name: "Devi",
-      job: "Staff Administrator",
-      message: "Pertama kali belanja gypsum Knauf disini. transfer lansung dikirim barangnya. Penjual Amanah👍",
+      job: "Eksekutif",
+      message: "Pertama kali sewa mobil RSS di Semarang. Mobilnya wangi dan bersih, supirnya ramah dan mengemudi dengan hati hati dan nyaman. Penjual Amanah👍",
     },
   ])
 }
