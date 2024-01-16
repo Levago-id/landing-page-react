@@ -11,7 +11,7 @@ export default function Products() {
     <main className=" bg-slate-200 dark:bg-slate-900">
       <div className="flex min-h-screen py-4 px-4 sm:px-12 container sm:max-w-[90%] mx-auto w-full items-center flex-col">
         <Navbar />
-        <AllCard pageTitle={"Daftar Produk"} fetchUrl={'product'}/>
+        <AllCard pageTitle={"Daftar Mobil"} fetchUrl={'product'}/>
       </div>
       <div className="w-full overflow-hidden">
           <Footer />
