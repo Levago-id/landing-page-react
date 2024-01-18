@@ -4,18 +4,16 @@ export async function GET(req, res) {
   return NextResponse.json([
     {
       id:1,
-      title:'Jasa Pemasangan Plafon Gypsum',
+      title:'Jasa Rental Mobil',
       description: `
-      <p>Kami telah meyelesaikan proyek plafon Gypsum seperti SDIT Insan Mulia Surakarta, SMP IT NUR HASAN, proyek rumah tinggal, serta berbagai proyek lainnya </p>
-      <p>Pasang plafon gyspum sesuai kebutuhan anda. Kami siap mengerjakan plafon gypsum berbagai model dengan jaminan kualitas pemasangan dan keamanan.</p>
-      <p>Dengan harga mulai dari 100rb/m Anda sudah mendapatkan plafon gypsum lengkap dengan cat, lis profil, dan model plafon minimalis. Anda dapat menyesuaikan kebutukan plafon dengan kami. Mari konsultasikan kebutuhanmu gratis</p>
+      <p>Global Transport juga menyediakan berbagai merek mobil terbaru, mulai dari MPV, SUV, sedan, city car, hatchback, hingga minibus dan bus yang semuanya ditujukan untuk memenuhi semuat jenis kebutuhan transportasi anda. Unit kendaraan perusahaan kami juga tersedia dalam beragam kapasitas penumpang, sehingga anda dapat memilih mobil sesuai dengan kebutuhan dan jumlah orang yang akan berpergian bersama anda.</p>
       `,
       imageUrl:[
-        'https://res.cloudinary.com/ddjmxrrij/image/upload/v1700889820/sga/products/scwvkeoz4mzfadrbxl57.jpg',
-        'https://res.cloudinary.com/ddjmxrrij/image/upload/v1700889224/sga/products/cs80ka70v1dgjt4xjwh1.jpg',
-        'https://res.cloudinary.com/ddjmxrrij/image/upload/v1700889820/sga/products/kcd2yknhp1m6rnrtbukx.jpg',
-        'https://res.cloudinary.com/ddjmxrrij/image/upload/v1700889226/sga/products/rfirgpbsufhmeb8n6rav.jpg',
-        'https://res.cloudinary.com/ddjmxrrij/image/upload/v1700889222/sga/products/leb3brs4w5niil1trtrl.jpg',
+        'https://res.cloudinary.com/dgcedsrzf/image/upload/v1705416323/12rs_bkql7a.png',
+        'https://res.cloudinary.com/dgcedsrzf/image/upload/v1705418510/16529289191-all-new-avanza_yyuhib.png',
+        'https://res.cloudinary.com/dgcedsrzf/image/upload/v1705418771/1-super-white_thl7lu.png',
+        'https://res.cloudinary.com/dgcedsrzf/image/upload/v1705419297/padang-honda-h-rv-abu-metallic-500_n9imh3.png',
+        'https://res.cloudinary.com/dgcedsrzf/image/upload/v1705419867/1.-alphard-colors-white-pearl_lc4c5z.png',
       ]
     },
     {
