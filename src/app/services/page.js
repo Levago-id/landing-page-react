@@ -10,7 +10,7 @@ export default function Services() {
       <main className=" bg-slate-200 dark:bg-slate-900">
       <div className="flex min-h-screen py-4 px-4 sm:px-12 container sm:max-w-[90%] mx-auto w-full items-center flex-col">
           <Navbar />
-          <AllCard pageTitle={"Jasa Pemasangan"} fetchUrl={'service'} />
+          <AllCard pageTitle={"Jasa Transportasi"} fetchUrl={'service'} />
         </div>
         <div className="w-full overflow-hidden">
           <Footer />
